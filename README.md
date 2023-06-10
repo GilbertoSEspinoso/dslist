@@ -9,6 +9,9 @@ DSlist é uma aplicação Java construída utilizando Spring Boot durante a Inte
 
 A aplicação back-end que consiste em endpoints de pesquisa de games, listagem de categorias e listagem de games por categorias.
 
+## Modelo de domínio DSList
+
+![Modelo de domínio DSList](https://raw.githubusercontent.com/devsuperior/java-spring-dslist/main/resources/dslist-model.png)
 
 # Tecnologias utilizadas
 
